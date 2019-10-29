@@ -7,3 +7,5 @@ output:
 ---
 
 # Website
+
+You can learn about my academic and professional experience [here](about.html).
