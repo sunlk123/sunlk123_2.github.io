@@ -6,6 +6,4 @@ output:
     toc_float: true
 ---
 
-# Website
-
 You can learn about my academic and professional experience [here](about.html).
